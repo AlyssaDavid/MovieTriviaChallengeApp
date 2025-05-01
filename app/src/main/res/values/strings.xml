@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieTriviaChallengeApp</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="trivia_question_here">Trivia question here</string>
+</resources>
